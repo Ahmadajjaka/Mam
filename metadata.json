@@ -1,0 +1,7 @@
+{
+  "name": "Ramadan Plus - Ramadan Activities Tracker",
+  "description": "A comprehensive Ramadan activity tracker for prayers, Quran reading, studying, and spiritual growth, featuring an AI companion for guidance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
